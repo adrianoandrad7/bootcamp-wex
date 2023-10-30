@@ -1,0 +1,14 @@
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET7\bin\Debug\net7.0\ExemploFundamentos.NET7.exe
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET7\bin\Debug\net7.0\ExemploFundamentos.NET7.deps.json
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET7\bin\Debug\net7.0\ExemploFundamentos.NET7.runtimeconfig.json
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET7\bin\Debug\net7.0\ExemploFundamentos.NET7.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET7\bin\Debug\net7.0\ExemploFundamentos.NET7.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET7\obj\Debug\net7.0\ExemploFundamentos.NET7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET7\obj\Debug\net7.0\ExemploFundamentos.NET7.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET7\obj\Debug\net7.0\ExemploFundamentos.NET7.AssemblyInfo.cs
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET7\obj\Debug\net7.0\ExemploFundamentos.NET7.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET7\obj\Debug\net7.0\ExemploFundamentos.NET7.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET7\obj\Debug\net7.0\refint\ExemploFundamentos.NET7.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET7\obj\Debug\net7.0\ExemploFundamentos.NET7.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET7\obj\Debug\net7.0\ExemploFundamentos.NET7.genruntimeconfig.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET7\obj\Debug\net7.0\ref\ExemploFundamentos.NET7.dll

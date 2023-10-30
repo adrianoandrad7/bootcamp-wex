@@ -1,0 +1,15 @@
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET5\bin\Debug\net5.0\ExemploFundamentos.NET5.exe
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET5\bin\Debug\net5.0\ExemploFundamentos.NET5.deps.json
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET5\bin\Debug\net5.0\ExemploFundamentos.NET5.runtimeconfig.json
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET5\bin\Debug\net5.0\ExemploFundamentos.NET5.runtimeconfig.dev.json
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET5\bin\Debug\net5.0\ExemploFundamentos.NET5.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET5\bin\Debug\net5.0\ExemploFundamentos.NET5.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET5\obj\Debug\net5.0\ExemploFundamentos.NET5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET5\obj\Debug\net5.0\ExemploFundamentos.NET5.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET5\obj\Debug\net5.0\ExemploFundamentos.NET5.AssemblyInfo.cs
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET5\obj\Debug\net5.0\ExemploFundamentos.NET5.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET5\obj\Debug\net5.0\ExemploFundamentos.NET5.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET5\obj\Debug\net5.0\refint\ExemploFundamentos.NET5.dll
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET5\obj\Debug\net5.0\ExemploFundamentos.NET5.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET5\obj\Debug\net5.0\ExemploFundamentos.NET5.genruntimeconfig.cache
+C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.NET5\obj\Debug\net5.0\ref\ExemploFundamentos.NET5.dll
