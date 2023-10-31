@@ -7,49 +7,54 @@ namespace ExemploExplorando.Models
 {
     public class Pessoa
     {
+        private string? _nome;
+        private int _idade;
+
         public Pessoa()
         {
-
+            Sobrenome = string.Empty;
         }
+
         public Pessoa(string nome, string sobrenome)
         {
             Nome = nome;
             Sobrenome = sobrenome;
         }
-        private string _nome;
-        private int _idade;
-        public string Nome 
-        { 
-            get => _nome.ToUpper();
+
+        public string? Nome
+        {
+            get => _nome?.ToUpper();
             set
             {
-                if(value == "")
+                if (string.IsNullOrEmpty(value))
                 {
                     throw new ArgumentException("O nome não pode ser vazio");
                 }
-
                 _nome = value;
-            } 
-        }
-        public int Idade
-        {
-            get => _idade;
-
-            set
-            {
-                if(value < 0)
-                {
-                        throw new ArgumentException("A idade não poder menor que 0");
-                }
-                    
-                _idade = value;
             }
         }
-        public string Sobrenome { get; set; }
+
+        public string Sobrenome { get; set; } = string.Empty;
+
         public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
+
         public void Apresentar()
         {
             Console.WriteLine($"Nome: {NomeCompleto}, Idade: {Idade}");
         }
+
+        public int Idade
+        {
+            get => _idade;
+            set
+            {
+                if (value < 0)
+                {
+                    throw new ArgumentException("A idade não pode ser menor que 0");
+                }
+                _idade = value;
+            }
+        }
     }
+
 }
