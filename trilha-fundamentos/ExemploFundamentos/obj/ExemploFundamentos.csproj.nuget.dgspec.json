@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\trilha-fundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj": {}
+    "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\bootcamp-wex\\trilha-fundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\trilha-fundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+    "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\bootcamp-wex\\trilha-fundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\trilha-fundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+        "projectUniqueName": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\bootcamp-wex\\trilha-fundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
         "projectName": "ExemploFundamentos.Common",
-        "projectPath": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\trilha-fundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+        "projectPath": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\bootcamp-wex\\trilha-fundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
         "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\trilha-fundamentos\\ExemploFundamentos.Common\\obj\\",
+        "outputPath": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\bootcamp-wex\\trilha-fundamentos\\ExemploFundamentos.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\trilha-fundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj": {
+    "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\bootcamp-wex\\trilha-fundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\trilha-fundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
+        "projectUniqueName": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\bootcamp-wex\\trilha-fundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
         "projectName": "ExemploFundamentos",
-        "projectPath": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\trilha-fundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
+        "projectPath": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\bootcamp-wex\\trilha-fundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
         "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\trilha-fundamentos\\ExemploFundamentos\\obj\\",
+        "outputPath": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\bootcamp-wex\\trilha-fundamentos\\ExemploFundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -79,8 +79,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\trilha-fundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
-                "projectPath": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\trilha-fundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
+              "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\bootcamp-wex\\trilha-fundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+                "projectPath": "C:\\Users\\adria\\OneDrive\\Área de Trabalho\\bootcamp-wex\\trilha-fundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
               }
             }
           }

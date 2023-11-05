@@ -9,3 +9,14 @@ C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.
 C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net7.0\refint\ExemploFundamentos.Common.dll
 C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net7.0\ExemploFundamentos.Common.pdb
 C:\Users\adria\OneDrive\Área de Trabalho\ExemploFundamentos\ExemploFundamentos.Common\obj\Debug\net7.0\ref\ExemploFundamentos.Common.dll
+C:\Users\adria\OneDrive\Área de Trabalho\bootcamp-wex\trilha-fundamentos\ExemploFundamentos.Common\bin\Debug\net7.0\ExemploFundamentos.Common.deps.json
+C:\Users\adria\OneDrive\Área de Trabalho\bootcamp-wex\trilha-fundamentos\ExemploFundamentos.Common\bin\Debug\net7.0\ExemploFundamentos.Common.dll
+C:\Users\adria\OneDrive\Área de Trabalho\bootcamp-wex\trilha-fundamentos\ExemploFundamentos.Common\bin\Debug\net7.0\ExemploFundamentos.Common.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\bootcamp-wex\trilha-fundamentos\ExemploFundamentos.Common\obj\Debug\net7.0\ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OneDrive\Área de Trabalho\bootcamp-wex\trilha-fundamentos\ExemploFundamentos.Common\obj\Debug\net7.0\ExemploFundamentos.Common.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\bootcamp-wex\trilha-fundamentos\ExemploFundamentos.Common\obj\Debug\net7.0\ExemploFundamentos.Common.AssemblyInfo.cs
+C:\Users\adria\OneDrive\Área de Trabalho\bootcamp-wex\trilha-fundamentos\ExemploFundamentos.Common\obj\Debug\net7.0\ExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\bootcamp-wex\trilha-fundamentos\ExemploFundamentos.Common\obj\Debug\net7.0\ExemploFundamentos.Common.dll
+C:\Users\adria\OneDrive\Área de Trabalho\bootcamp-wex\trilha-fundamentos\ExemploFundamentos.Common\obj\Debug\net7.0\refint\ExemploFundamentos.Common.dll
+C:\Users\adria\OneDrive\Área de Trabalho\bootcamp-wex\trilha-fundamentos\ExemploFundamentos.Common\obj\Debug\net7.0\ExemploFundamentos.Common.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\bootcamp-wex\trilha-fundamentos\ExemploFundamentos.Common\obj\Debug\net7.0\ref\ExemploFundamentos.Common.dll
