@@ -10,7 +10,7 @@ O que é POO?
 
 A POO é um paradgma de programação, ou seja, corresponde a uma técnica de programação para um fim específico.
 
-Dentro desta técnica, exeistem quatro pilares que são:
+Dentro desta técnica, existem quatro pilares que são:
 
 * Abstração
 * Encapsulamento
